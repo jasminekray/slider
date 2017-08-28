@@ -1,0 +1,18 @@
+body {
+  margin: 0; }
+
+#slides-container > div {
+  height: 200px; }
+
+img {
+  margin: auto;
+  width: 400px; }
+
+#slides-container {
+  position: absolute;
+  width: 400px;
+  left: 50%;
+  top: 20px;
+  margin-left: -200px; }
+
+/*# sourceMappingURL=style.css.map */
